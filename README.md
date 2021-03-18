@@ -1,0 +1,1 @@
+I have attempted to copy https://github.com/python-engineer/snake-ai-pytorch , but have instead created a new environment using gym, cartpool. I do not understand why this does not work.
