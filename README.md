@@ -1,1 +1,2 @@
 I have attempted to copy https://github.com/python-engineer/snake-ai-pytorch , but have instead created a new environment using gym, cartpool. I do not understand why this does not work.
+The issue is evident when I read the outputs of the neural network, it ALWAYS outputs 0 and never 1. So for some reason, regardless of the inputs, it assumes the correct output is 0 and never 1.
